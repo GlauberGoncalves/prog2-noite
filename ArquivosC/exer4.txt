@@ -1,0 +1,10 @@
+Glauber    10.00
+Jessica     9.00
+Mariana     8.00
+Wellington     7.00
+Olivia     6.30
+Jenifer     6.80
+Aline     9.00
+Pedro     1.00
+Rodrigo     8.00
+Alison     8.00

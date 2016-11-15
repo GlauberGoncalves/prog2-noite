@@ -1,0 +1,5 @@
+1 motor 10000.00 25
+2 peneu 5000.00 15
+3 parabrisas 500.00 40
+4 banco 300.00 950
+5 lataria 630000.00 1

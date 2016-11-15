@@ -1,0 +1,3 @@
+01 m glauber 28 30000
+02 f alessandra 21 15000
+01 m julia 28 30000
